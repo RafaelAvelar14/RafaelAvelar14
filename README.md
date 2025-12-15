@@ -6,16 +6,4 @@
 
 I’m passionate about learning, solving complex problems, and exploring new technologies.
 
-<br>
-
-# Languages and Tools:
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAvelar14&layout=compact&theme=dark&include_forks=true"
-  />
-</p>
-
-<br>
-
 </div>
